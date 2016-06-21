@@ -1,0 +1,13 @@
+{
+  "name": "cloud-nine",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cjnarvaez <c_narvaezr@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CJNarvaez/cloud-nine",
+  "dependencies": {
+    "google-sheets": "GoogleWebComponents/google-sheets#^1.0.5"
+  }
+}
